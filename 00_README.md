@@ -7,3 +7,9 @@ Learning data analysis projects using Python
 - **Stock Price Analysis**: Price movement analysis  
 - **YouTube Data Analysis**: Views, likes & engagement  
 - **Zomato Analysis**: Restaurant ratings & trends
+
+### Tech Stack
+Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### Note
+These are learning-based exploratory data analysis (EDA) projects.
